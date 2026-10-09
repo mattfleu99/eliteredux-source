@@ -603,6 +603,7 @@
 #define MAP_ROUTE111_SUNHOLLOW_RUINS                        (90 | (27 << 8))
 #define MAP_ROUTE111_DESERT                                 (91 | (27 << 8))
 #define MAP_ROUTE111_SUNHOLLOW_RUINS_MUSEUM                 (92 | (27 << 8))
+#define MAP_NEON_DISTRICT                                   (93 | (27 << 8))
 
 // gMapGroup_IndoorRoute104Prototype
 #define MAP_ROUTE104_PROTOTYPE                          (0 | (28 << 8))

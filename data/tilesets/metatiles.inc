@@ -589,3 +589,11 @@ gMetatiles_Mossdeep_Ice::
 	.align 1
 gMetatileAttributes_Mossdeep_Ice::
 	.incbin "data/tilesets/secondary/mossdeep_ice/metatile_attributes.bin"
+
+	.align 1
+gMetatiles_Neon::
+	.incbin "data/tilesets/secondary/neon/metatiles.bin"
+
+	.align 1
+gMetatileAttributes_Neon::
+	.incbin "data/tilesets/secondary/neon/metatile_attributes.bin"

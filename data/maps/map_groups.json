@@ -633,7 +633,8 @@
     "DebugMap",
     "Route111_SunhollowRuins",
     "Route111_Desert",
-    "Route111_SunhollowRuins_Museum"
+    "Route111_SunhollowRuins_Museum",
+    "NeonDistrict"
   ],
   "gMapGroup_IndoorRoute104Prototype": [
     "Route104_Prototype",

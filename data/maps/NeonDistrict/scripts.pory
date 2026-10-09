@@ -1,0 +1,66 @@
+mapscripts NeonDistrict_MapScripts {}
+
+script NeonDistrict_EventScript_NoodleCook {
+    msgbox(format("Hai! Sit, sit! Tonight's special is Magikarp ramen. You want four bowls? No. Two. Two is enough. Trust me."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_Detective {
+    msgbox(format("Rain hasn't let up in three years. Porygon Corp. builds Pokémon more real than real, and when one of them slips its leash, they call me."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_Hooded {
+    msgbox(format("I've seen things… Gyarados burning off the Slateport coast. Lightning glittering in the dark near Sootopolis. All of it is going to wash away in this rain.\pTime to rest."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_Scientist {
+    msgbox(format("Porygon Corp. More digital than digital. Our latest question: do Porygon dream of electric Mareep? The answer is classified."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_Woman {
+    msgbox(format("Nobody here has seen the ground in years. From up on this walkway, the lower city looks like a Pokédex full of stars."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_Kid {
+    msgbox(format("These machines only take credits from 2049. I've been pressing buttons all night anyway."), MSGBOX_NPC)
+    end
+}
+
+script NeonDistrict_EventScript_HotelDoor {
+    msgbox(format("HOTEL HOTERU. Capsules by the hour.\pThe door is locked. A pink sign flickers: NO VACANCY."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_VendingPink {
+    msgbox(format("A vending machine glowing hot pink. FIZZY POP, 200 credits.\pIt only takes credits. You don't have any."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_VendingCyan {
+    msgbox(format("SYNTH LEMONADE: now with real lemon flavoring!\pThe machine hums and does nothing."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_Spinner {
+    msgbox(format("A police spinner, parked across the lane. The engine is still warm, and its lights wash the wet road in red and blue."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_Manhole {
+    msgbox(format("Warm steam hisses out of the manhole. It smells like ramen and ozone."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_Barrier {
+    msgbox(format("A holographic police line. POLICE LINE - DO NOT CROSS."), MSGBOX_SIGN)
+    end
+}
+
+script NeonDistrict_EventScript_Railing {
+    msgbox(format("Far below, the lower city glows through the fog. You can't see the ground."), MSGBOX_SIGN)
+    end
+}
