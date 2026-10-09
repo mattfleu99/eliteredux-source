@@ -4880,6 +4880,16 @@
       "secondary_tileset": "gTileset_MirageTower",
       "border_filepath": "data/layouts/Route111_Desert_Entrance/border.bin",
       "blockdata_filepath": "data/layouts/Route111_Desert_Entrance/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEON_DISTRICT",
+      "name": "NeonDistrict_Layout",
+      "width": 22,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Neon",
+      "border_filepath": "data/layouts/NeonDistrict/border.bin",
+      "blockdata_filepath": "data/layouts/NeonDistrict/map.bin"
     }
   ]
 }

@@ -2104,3 +2104,26 @@ gTilesetPalettes_Mossdeep_Ice::
 	.align 2
 gTilesetTiles_Mossdeep_Ice::
 	.incbin "data/tilesets/secondary/mossdeep_ice/tiles.4bpp.lz"
+
+	.align 2
+gTilesetTiles_Neon::
+	.incbin "data/tilesets/secondary/neon/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_Neon::
+	.incbin "data/tilesets/secondary/neon/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/12.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/13.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/14.gbapal"
+	.incbin "data/tilesets/secondary/neon/palettes/15.gbapal"

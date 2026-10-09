@@ -1427,3 +1427,21 @@ gTileset_Mossdeep_Ice::
 	.4byte NULL @ Summer_Tileset
 	.4byte NULL @ Autumn_Tileset
 	.4byte NULL @ Winter_Tileset
+
+	.align 2
+gTileset_Neon::
+	.byte TRUE @ is compressed
+	.byte TRUE @ is secondary tileset
+	.2byte 0 @ padding
+	.4byte gTilesetTiles_Neon
+	.4byte gTilesetPalettes_Neon
+	.4byte gMetatiles_Neon
+	.4byte gMetatileAttributes_Neon
+	.4byte NULL
+	.4byte NULL @ PalOverrides
+	.4byte NULL @ Summer_Palette
+	.4byte NULL @ Autumn_Palette
+	.4byte NULL @ Winter_Palette
+	.4byte NULL @ Summer_Tileset
+	.4byte NULL @ Autumn_Tileset
+	.4byte NULL @ Winter_Tileset
