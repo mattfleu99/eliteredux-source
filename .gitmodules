@@ -1,4 +1,4 @@
 [submodule "proto"]
 	path = proto
-	url = https://github.com/Elite-Redux/er-config.git
+	url = https://github.com/mattfleu99/er-config.git
 	branch = upcoming
